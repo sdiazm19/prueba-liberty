@@ -1,0 +1,24 @@
+{
+    "TagSet": [
+        {
+            "Key": "DataClassification",
+            "Value": "PII"
+        },
+        {
+            "Key": "Environment",
+            "Value": "Production"
+        },
+        {
+            "Key": "Owner",
+            "Value": "prueba-liberty"
+        },
+        {
+            "Key": "ManagedBy",
+            "Value": "Terraform"
+        },
+        {
+            "Key": "ProjectName",
+            "Value": "prueba-liberty"
+        }
+    ]
+}
